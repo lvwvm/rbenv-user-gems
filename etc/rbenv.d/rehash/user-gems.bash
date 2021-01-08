@@ -1,1 +1,1 @@
-make_shims "${HOME}/.gem"/*/*/bin/*
+make_shims "${GEM_HOME=${HOME}/.gem}"/*/*/bin/*
